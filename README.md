@@ -19,8 +19,3 @@ jupyter notebook notebooks/main.ipynb
 
 1. Execute the notebook top-to-bottom (adjust feature engineering as desired).
 2. The final cell writes `result.csv`, ready for Kaggle upload.
-
-## Next steps
-
-- Improve feature coverage (e.g., age imputation, family size, fare bands).
-- Log experiments and scores to compare iterations quickly.
